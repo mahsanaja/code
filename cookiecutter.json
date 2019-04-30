@@ -1,5 +1,6 @@
 {
-    "directory_name": "lambda",
-    "file_name": "lambda",
-    "greeting_recipient": "Julie"
+    "directory_name": "python-lambda",
+    "function_name": "lambda-function",
+    "repo_name": "lambda-repo",
+    "version": "1.0.0"
 }
