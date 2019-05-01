@@ -2,5 +2,8 @@
     "directory_name": "python-lambda",
     "function_name": "lambda-function",
     "repo_name": "lambda-repo",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "source_schema": ".bdp/avro_schemas/com.bloomberg.msg.BdpTestSchemaAllTypes-1.0.avsc"
+    "target_pipe_enable": "Y",
+    "taget_schema": "["", ".bdp/avro_schemas/com.bloomberg.msg.BdpTestSchemaAllTypes-1.0.avsc"]		
 }
